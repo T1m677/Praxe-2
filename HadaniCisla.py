@@ -9,5 +9,5 @@ while True
         print(random je vetsi)
     else:
         print(random je mensi)
-print("uhodnuto na", pocet,"pokusu")
+print
 
