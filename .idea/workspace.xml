@@ -53,10 +53,13 @@
     "Python.Bankomat.executor": "Run",
     "Python.HadaniCisla.executor": "Run",
     "Python.Nasobilka.executor": "Run",
+    "Python.Setrideni souboru.executor": "Run",
+    "Python.kontrola prihlaseni.executor": "Run",
     "Python.rozdeleni.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/FavorskyiTimur/PycharmProjects/PythonProject3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +75,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FavorskyiTimur\PycharmProjects\PythonProject3" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770274983635</updated>
-      <workItem from="1770274984669" duration="12787000" />
+      <workItem from="1770274984669" duration="18041000" />
     </task>
     <task id="LOCAL-00001" summary="Uvod">
       <option name="closed" value="true" />
@@ -129,7 +137,31 @@
       <option name="project" value="LOCAL" />
       <updated>1770284072925</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Uvod">
+      <option name="closed" value="true" />
+      <created>1770288266818</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770288266818</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Uvod">
+      <option name="closed" value="true" />
+      <created>1770288269948</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770288269948</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Uvod">
+      <option name="closed" value="true" />
+      <created>1770289308323</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770289308323</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,9 +171,22 @@
     <MESSAGE value="Uvod" />
     <option name="LAST_COMMIT_MESSAGE" value="Uvod" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/Setrideni souboru.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject3$Nasobilka.coverage" NAME="Nasobilka Coverage Results" MODIFIED="1770280100483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject3$Bankomat.coverage" NAME="Bankomat Coverage Results" MODIFIED="1770285139895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject3$Setrideni_souboru.coverage" NAME="Setrideni souboru Coverage Results" MODIFIED="1770289468439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data" />
+    <SUITE FILE_PATH="coverage/PythonProject3$kontrola_prihlaseni.coverage" NAME="kontrola prihlaseni Coverage Results" MODIFIED="1770296012374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject3$HadaniCisla.coverage" NAME="HadaniCisla Coverage Results" MODIFIED="1770278177158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject3$rozdeleni.coverage" NAME="rozdeleni Coverage Results" MODIFIED="1770288246694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
