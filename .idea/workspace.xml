@@ -50,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Bankomat.executor": "Run",
     "Python.HadaniCisla.executor": "Run",
     "Python.Nasobilka.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -85,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770274983635</updated>
-      <workItem from="1770274984669" duration="5191000" />
+      <workItem from="1770274984669" duration="8598000" />
     </task>
     <task id="LOCAL-00001" summary="Uvod">
       <option name="closed" value="true" />
@@ -95,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770275361868</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Uvod">
+      <option name="closed" value="true" />
+      <created>1770280230061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770280230061</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Uvod">
+      <option name="closed" value="true" />
+      <created>1770280231563</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770280231563</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +124,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject3$Nasobilka.coverage" NAME="Nasobilka Coverage Results" MODIFIED="1770280100483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject3$Bankomat.coverage" NAME="Bankomat Coverage Results" MODIFIED="1770283840101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject3$HadaniCisla.coverage" NAME="HadaniCisla Coverage Results" MODIFIED="1770278177158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
